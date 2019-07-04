@@ -1,0 +1,21 @@
+body{
+	background-color: #EAF6F6;
+}
+
+/*HEADINDS RESUABLE*/
+
+h1,h2,h3 {
+	color: #66BFBF;
+}
+
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	border-color: #e0e0e0;
+	border-width: 10px;
+	width: 5%;
+}
+
+img {
+	border-radius: 100%;
+}
